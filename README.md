@@ -20,7 +20,8 @@
   
   - Expertise spans multiple programming languages:<br>
     - ☕ Java  
-    - 🐍 Python  
+    - 🐍 Python
+    -     Ruby
     - 📓 Jupyter  
     - 🌐 JavaScript  
 
