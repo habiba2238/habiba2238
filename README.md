@@ -11,6 +11,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=habiba2238&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habiba2238&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 😁 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=habiba2238)](https://github.com/habiba2238/github-profile-trophy)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=habiba2238&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
